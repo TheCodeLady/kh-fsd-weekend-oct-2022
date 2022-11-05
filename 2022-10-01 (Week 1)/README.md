@@ -134,4 +134,4 @@ Wed/Thu/Fri - Go through the content for that upcoming week sesion.
 Sat - Attend the live session
 Sun/Mon/Tue - We work on the assignments and class tasks.
 Wed - Doubt Session - We ask the doubts.
-Thurs - continu assignments and tasks through to friday
+Thurs - continue assignments and tasks through to friday
